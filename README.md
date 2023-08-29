@@ -10,5 +10,6 @@ The config server will be available at http://localhost:8888
 ### Configuration 
 - To point it to another github repo change the property spring.cloud.config.server.git.uri in application.properties file.
 - To change the port, change the property at server.port in application.properties.
-### flights-api repo
-https://github.com/AmmadHassanPro/flights-api
+### Reference repos
+- flights-api : https://github.com/AmmadHassanPro/flights-api
+- configuration : https://github.com/AmmadHassanPro/flights-api-configuration
