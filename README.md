@@ -1,4 +1,4 @@
-# ConfigServerFlightsApi
+# config-server-flights-api
 ## A Spring Cloud Config Server to fetch configuration for flights-api from github as backend. It needs to run to support the flights-api for fetching profile specific configurations
 
 A Spring Boot app, which serves as a Config Server. It points to https://github.com/AmmadHassanPro/flights-api-configuration github repo to get flights-api.yml , which has Spring profile specific configurations. 
