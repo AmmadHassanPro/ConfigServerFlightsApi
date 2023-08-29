@@ -4,7 +4,7 @@
 A Spring Boot app, which serves as a Config Server. It points to https://github.com/AmmadHassanPro/flights-api-configuration github repo to get flights-api.yml , which has Spring profile specific configurations. 
 
 ## Running Instructions
-Download the code, and on the root of the project, type  ./gradlew bootRun
+Download the code, and on the root of the project, type  ./gradlew bootRun on the terminal.
 The config server will be available at http://localhost:8888
 
 ### Configuration 
